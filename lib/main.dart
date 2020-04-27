@@ -42,7 +42,7 @@ class apk1 extends StatelessWidget {
                 margin: EdgeInsets.all(30.0),
                 child:ListTile(
                   leading: Icon(Icons.phone,color: Colors.teal[900],),
-                  title: Text('+91-7739887667',
+                  title: Text('+91-123456789',
                     style: TextStyle(
                         fontSize: 20
                     ),
@@ -55,7 +55,7 @@ class apk1 extends StatelessWidget {
                 margin: EdgeInsets.symmetric( vertical: 1, horizontal: 30),
                 child:ListTile(
                   leading:Icon(Icons.email,color: Colors.teal[900],),
-                  title:Text('anjit193023@gmail.com',
+                  title:Text('your_email@gmail.com',
                     style: TextStyle(fontSize: 20),
                   ),
                 ),
